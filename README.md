@@ -1,0 +1,1 @@
+修改版AndResGuard文件，适配android studio 4.2.0
